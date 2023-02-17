@@ -1,2 +1,5 @@
 # github-linkedin
-Esta es una prueba de repositorio
+Git hub para desarrolladores.
+
+[Esta es una prueba de repositorio] (https://github.com/omarlnx/)
+
